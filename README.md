@@ -20,3 +20,5 @@
 * 回到项目文件夹，多了一个node_modules文件夹（该文件里的内容就是之前安装的依赖）
 * 运行项目
 > cnpm run dev 或者 npm run dev
+
+##  [提供一个可以参考的网站](http://blog.csdn.net/FungLeo/article/details/77584701)
