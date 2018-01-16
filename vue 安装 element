@@ -1,5 +1,5 @@
-## 用脚手架搭好的vue框架下安装element-ui
-* 输入 npm install element-ui -S（ui新版本）
-* 引入 import ElementUI from 'element-ui'
+一、用脚手架搭好的vue框架下安装element-ui
+1. 输入 npm install element-ui -S（ui新版本）
+2. 引入 import ElementUI from 'element-ui'
        import 'element-ui/lib/theme-chalk/index.css' （elementUI 2.0版本的地址已经改为 'element-ui/lib/theme-chalk/index.css'，所以引入）
        Vue.use(ElementUI)
